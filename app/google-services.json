@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "280848139334",
+    "firebase_url": "https://project222-ba297-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "project222-ba297",
+    "storage_bucket": "project222-ba297.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280848139334:android:d5c96fcb7d0f6a1ba0f647",
+        "android_client_info": {
+          "package_name": "com.uilover.project2222"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL74AtjGJ5TfiOJ97ZcYAENXe1q6rJ3JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
