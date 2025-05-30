@@ -1,0 +1,135 @@
+{
+  "Banners": [
+    {
+      "image": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1738610243/benner1_fmdi0w.jpg"
+    },
+    {
+      "image": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1738610155/banner2_pdrm74.jpg"
+    },
+    {
+      "image": "https://res.cloudinary.com/dkikc5ywq/image/upload/v1738610155/banner3_zvjkpc.jpg"
+    }
+  ],
+  "Category": [
+    {
+      "Id": 0,
+      "ImagePath": "https://res.cloudinary.com/dlrshvvh7/image/upload/v1748362831/dcfc0ed6-a205-4e53-8593-b8ed235f44fe_ndl1dm.png",
+      "Name": "İçecek"
+    },
+    {
+      "Id": 1,
+      "ImagePath": "https://res.cloudinary.com/dlrshvvh7/image/upload/v1748362880/8d59e11a-b3cf-40d1-8a70-e6b3d0cfa5fd_ikuk7e.png",
+      "Name": "Tatlı"
+    },
+    {
+      "Id": 2,
+      "ImagePath": "https://res.cloudinary.com/dlrshvvh7/image/upload/v1748363150/2c69f9e5-2dfd-44e0-b7b3-6ebb0f2a295c_k0xilz.png",
+      "Name": "Ana Yemek"
+    },
+    {
+      "Id": 3,
+      "ImagePath": "https://res.cloudinary.com/dlrshvvh7/image/upload/v1748363029/8f34f065-68f4-47a1-8174-d2a73313047d_cel3qg.png",
+      "Name": "Fast Food"
+    }
+  ],
+  "Foods": [
+    {
+      "CategoryId": "0",
+      "Id": 1,
+      "ImagePath": "http://kasimadalan.pe.hu/yemekler/resimler/ayran.png",
+      "Price": 30,
+      "Title": "Ayran"
+    },
+    {
+      "CategoryId": "1",
+      "Id": 2,
+      "ImagePath": "http://kasimadalan.pe.hu/yemekler/resimler/baklava.png",
+      "Price": 250,
+      "Title": "Baklava"
+    },
+    {
+      "CategoryId": "0",
+      "Id": 3,
+      "ImagePath": "http://kasimadalan.pe.hu/yemekler/resimler/fanta.png",
+      "Price": 60,
+      "Title": "Fanta"
+    },
+    {
+      "CategoryId": "2",
+      "Id": 4,
+      "ImagePath": "http://kasimadalan.pe.hu/yemekler/resimler/izgarasomon.png",
+      "Price": 550,
+      "Title": "Izgara Somon"
+    },
+    {
+      "CategoryId": "2",
+      "Id": 5,
+      "ImagePath": "http://kasimadalan.pe.hu/yemekler/resimler/izgaratavuk.png",
+      "Price": 270,
+      "Title": "Izgara Tavuk"
+    },
+    {
+      "CategoryId": "1",
+      "Id": 6,
+      "ImagePath": "http://kasimadalan.pe.hu/yemekler/resimler/kadayif.png",
+      "Price": 220,
+      "Title": "Kadayif"
+    },
+    {
+      "CategoryId": "0",
+      "Id": 7,
+      "ImagePath": "http://kasimadalan.pe.hu/yemekler/resimler/kahve.png",
+      "Price": 160,
+      "Title": "Kahve"
+    },
+    {
+      "CategoryId": "2",
+      "Id": 8,
+      "ImagePath": "http://kasimadalan.pe.hu/yemekler/resimler/kofte.png",
+      "Price": 250,
+      "Title": "Kofte"
+    },
+    {
+      "CategoryId": "2",
+      "Id": 9,
+      "ImagePath": "http://kasimadalan.pe.hu/yemekler/resimler/lazanya.png",
+      "Price": 320,
+      "Title": "Lazanya"
+    },
+    {
+      "CategoryId": "2",
+      "Id": 10,
+      "ImagePath": "http://kasimadalan.pe.hu/yemekler/resimler/makarna.png",
+      "Price": 280,
+      "Title": "Makarna"
+    },
+    {
+      "CategoryId": "3",
+      "Id": 11,
+      "ImagePath": "http://kasimadalan.pe.hu/yemekler/resimler/pizza.png",
+      "Price": 450,
+      "Title": "Pizza"
+    },
+    {
+      "CategoryId": "0",
+      "Id": 12,
+      "ImagePath": "http://kasimadalan.pe.hu/yemekler/resimler/su.png",
+      "Price": 20,
+      "Title": "Su"
+    },
+    {
+      "CategoryId": "1",
+      "Id": 13,
+      "ImagePath": "http://kasimadalan.pe.hu/yemekler/resimler/sutlac.png",
+      "Price": 100,
+      "Title": "Sutlac"
+    },
+    {
+      "CategoryId": "1",
+      "Id": 14,
+      "ImagePath": "http://kasimadalan.pe.hu/yemekler/resimler/tiramisu.png",
+      "Price": 230,
+      "Title": "Tiramisu"
+    }
+  ]
+}
